@@ -19,4 +19,4 @@
 
 
 ### 运行结果
-![运行截图](https://images.cnblogs.com/cnblogs_com/zhangxiaoyong/1997495/o_2107080611111625724546.jpg)
+![运行截图](http://ok.fuyue.xyz/img/1625724546.jpg)
